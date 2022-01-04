@@ -323,6 +323,9 @@ color: white !important;
 	transition: all 500ms ease;
 	transform: translateX(-100%);
 }
+	.col-md-6{
+		padding-right: 0 !important;
+	}
 
 #btn-menu:checked ~ .menu-nav{
 transform: translateX(0%);
