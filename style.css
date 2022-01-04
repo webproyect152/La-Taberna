@@ -294,6 +294,16 @@ color: white !important;
 	height: 60px;
 
 }
+
+	body{
+ 	  width: 100% ;    
+ 		background-image: url(img/backpizzeria.jpg) !important;
+ 		min-height: 90vh;
+	background-size: cover;
+
+
+ 	}
+	
 .logo .boton{
 	line-height: 60px;
 }
