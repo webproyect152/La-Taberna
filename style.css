@@ -279,7 +279,12 @@ letter-spacing: 2px;
 div.row{
    margin-right: 0px;
 }
-
+.font-desc{
+color: white !important;
+    text-align: center;
+    font-family: montana-rough;
+    font-size: 32px;
+}
 
 /*------------------*/
 
