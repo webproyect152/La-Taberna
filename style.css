@@ -182,7 +182,7 @@ margin-right: -15px;
  	
  	body{
  	  width: 100% ;    
-	   background-color: #212121 !important;
+	   background-color: #000000 !important;
  	}
 	 .backg{
 		background-image: url(https://images.unsplash.com/photo-1600382782907-b4e9c4dda7a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80) ;
@@ -190,7 +190,7 @@ margin-right: -15px;
    background-size: cover;
 	 }
 	 .backg2{
-		 background-color: #212121 !important;
+		 background-color: #000000 !important;
 	 }
  
  
